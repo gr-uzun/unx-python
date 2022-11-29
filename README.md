@@ -5,5 +5,5 @@
 >>
 >> -NETACAD
 >>
->> -UNXACADEMY
+>> -UNX Academy
 >>
